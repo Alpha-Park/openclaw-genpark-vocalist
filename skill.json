@@ -1,0 +1,15 @@
+{
+  "name": "openclaw-genpark-vocalist",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Vocalist - Pure standard library acoustic time-domain autocorrelation pitch tracker and vocal stability estimator.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "openclaw",
+    "vocalist",
+    "audio-processing",
+    "pitch-tracking",
+    "mcp"
+  ]
+}
